@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#cart--container {
+  margin: 2rem;
+}
+.single--product {
+  border: 2px solid red;
+  padding: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+.product--image {
+  width: 150px;
+}
+.remove--item {
+  margin-top: 1rem;
+}
+#cart--total {
+  font-size: 2rem;
+}
+
+.like--btn {
+  background: transparent;
+  border: 0;
+}
